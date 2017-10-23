@@ -1,0 +1,35 @@
+body{
+  margin-top: 60px;
+}
+.jumbotron{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.image{
+  margin-left: 110px;
+  margin-right: 50px;
+  
+}
+
+.image .thumbnail p{
+  text-align: center;
+  font-size: 15px;
+  padding-top: 10px;
+}
+.history{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.footer{
+  margin-left: 20%;
+  margin-right:20%;
+  
+}
+
+.jumbotron footer{
+  text-align: left;
+}
+
+footer{
+  text-align: center;
+}
